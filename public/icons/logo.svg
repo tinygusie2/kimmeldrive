@@ -1,0 +1,11 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="60" cy="60" r="55" fill="#0b57d0"/>
+  <circle cx="60" cy="60" r="50" fill="#d3e3ff"/>
+  
+  <!-- K letter -->
+  <path d="M45,35 L45,85 M45,60 L65,35 M45,60 L65,85" stroke="#0b57d0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- D letter -->
+  <path d="M75,35 L75,85 M75,35 C85,35 90,45 90,60 C90,75 85,85 75,85" stroke="#0b57d0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
